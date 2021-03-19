@@ -1,0 +1,8 @@
+body {
+  background-color: hsla(0, 39%, 56%, 1);
+  background: #bb6363;
+  border-bottom-color: hsl(0, 53%, 41%);
+  border-color: rgb(80, 124, 107);
+  border-left-color: hsla(0, 22%, 27%, 0.568);
+  border-right-color: rgba(98, 97, 184, 0.39);
+}

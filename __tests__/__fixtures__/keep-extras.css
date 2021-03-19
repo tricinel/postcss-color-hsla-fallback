@@ -1,0 +1,6 @@
+body {
+  /* This is comment */
+  border-color: hsl(221, 53%, 41%) !important;
+  background-color: hsl(0, 30%, 37%); /* This is a comment */
+  color: hsl(221, 53%, 41%) !important; /* This is a comment */
+}

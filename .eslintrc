@@ -1,0 +1,9 @@
+{
+  "env": {
+    "jest/globals": true
+  },
+  "extends": ["frontwerk", "prettier"],
+  "plugins": [
+    "jest"
+  ]
+}
